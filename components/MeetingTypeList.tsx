@@ -125,7 +125,7 @@ const MeetingTypeList = () => {
               selected={values.dateTime}
               onChange={(date) => setValues({ ...values, dateTime: date! })}
               showTimeSelect
-              Format="HH:mm"
+              
               timeIntervals={15}
               timeCaption="time"
               dateFormat="MMMM d, yyyy h:mm aa"
