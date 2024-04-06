@@ -20,8 +20,8 @@ const config = {
     extend: {
       colors: {
         dark: {
-          1: '#1C1F2E',
-          2: '#161925',
+          1: '#001F2A',
+          2: '#001925',
           3: '#252A41',
           4: '#1E2757',
         },
@@ -34,13 +34,13 @@ const config = {
           3: '#F5FCFF',
         },
         orange: {
-          1: '#FF742E',
+          1: '#11742E',
         },
         purple: {
           1: '#830EF9',
         },
         yellow: {
-          1: '#F9A90E',
+          1: '#F9A10F',
         },
       },
       keyframes: {
