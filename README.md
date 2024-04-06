@@ -1,4 +1,4 @@
-# Darshan : ##video calling app
+# Darshan : video calling app
 ![video calling app](public/darshan.png)
 
 
